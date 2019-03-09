@@ -1,7 +1,7 @@
-### 42--minishell__MiniUnixShell
-*A mini unix shell written in C.*
+# 42--minishell__MiniUnixShell
+###*A mini unix shell written in C.*
 
-# Usage
+## Usage
 
 ```sh
 ...
